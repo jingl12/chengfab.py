@@ -4,6 +4,7 @@
 
 '''
 Python实现，九九乘法表
+Python implementation,multiplication table
 '''
 
 for i in range(1,10):
